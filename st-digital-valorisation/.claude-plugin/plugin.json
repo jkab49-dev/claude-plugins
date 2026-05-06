@@ -1,0 +1,13 @@
+{
+  "name": "st-digital-valorisation",
+  "version": "0.1.0",
+  "description": "Agent de coaching et de modélisation pour la valorisation de ST Digital. Spécialisé pour l'écosystème CEMAC/UEMOA, 7 pays d'opération, positionnement cloud souverain africain et partenariat Anthropic. Requiert le plugin financial-analysis Anthropic.",
+  "author": {
+    "name": "Jacques Ludovic",
+    "email": "j.ludovic@st.digital",
+    "url": "https://st.digital"
+  },
+  "homepage": "https://github.com/jkab49/claude-plugins/tree/main/st-digital-valorisation",
+  "license": "Proprietary",
+  "keywords": ["valorisation", "cloud", "africa", "cemac", "uemoa", "dcf", "wacc"]
+}

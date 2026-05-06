@@ -1,0 +1,22 @@
+{
+  "name": "jkab49-plugins",
+  "owner": {
+    "name": "Jacques Ludovic",
+    "email": "j.ludovic@st.digital",
+    "url": "https://st.digital"
+  },
+  "metadata": {
+    "description": "Plugins Claude personnels — Valorisation ST Digital, Finance CEMAC/UEMOA, outils CMO",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "st-digital-valorisation",
+      "source": "./st-digital-valorisation",
+      "version": "0.1.0",
+      "description": "Agent de coaching valorisation ST Digital — WACC CEMAC/UEMOA, comparables cloud africain, coaching PDG. Requiert le plugin financial-analysis d'Anthropic.",
+      "category": "finance",
+      "keywords": ["valorisation", "cloud", "africa", "dcf", "wacc", "cemac", "uemoa"]
+    }
+  ]
+}
